@@ -1,0 +1,14 @@
+Cara Menggunakan Aplikasi BMI Calculator
+1. Extract file dist di folder aplikasi, pastikan di dalamnya terdapat folder lib
+2. Klik 2x Sistem_BMI.jar
+3. Isikan kolom Height dalam meter dan weight dalam kilogram
+4. klik tombol calculate BMI, aplikasi akan menghitung BMI anda
+5. Output akan muncul di bawah tulisan "Your BMI is"
+6. Anda bisa melihat tabel untuk mengetahui arti dari angka BMI
+7. Warna background angka BMI akan berubah sesuai dengan arti BMI
+5. Klik tombol reset, aplikasi akan mereset output, input Height, dan input Weight yang dimasukkan
+6. Klik tombol exit, aplikasi akan menutup program.
+
+Terimakasih
+Nama : Muhammad Izzudin
+NIM : 32602000047
